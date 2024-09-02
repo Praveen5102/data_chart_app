@@ -50,13 +50,11 @@ To set up the project locally, follow these steps:
    - Make your changes and commit them (git commit -am 'Add new feature').
    - Push to the branch (git push origin feature-branch).
    - Create a new Pull Request.
+
 **License**
    This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgements
 
-   - Flutter - The framework used for building the app.
-   - GitHub - Platform for hosting the repository.
 
    
 

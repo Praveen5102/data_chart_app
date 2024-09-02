@@ -43,7 +43,7 @@ To set up the project locally, follow these steps:
    flutter build ios
    ```
 ## Contributing
-   -If you would like to contribute to this project, please follow these guidelines:
+   - If you would like to contribute to this project, please follow these guidelines:
 
    - Fork the repository.
    - Create a new branch (git checkout -b feature-branch).

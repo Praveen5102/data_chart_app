@@ -4,6 +4,11 @@
 
 The **Data Chart App** is a Flutter application designed to display and interact with various data charts. This project demonstrates how to visualize data using different types of charts and provides a user-friendly interface for exploring data.
 
+**API Key Used:** 
+```bash
+https://api.data.gov.in/resource/46ee6707-5b9d-4d25-8fe7-20f05997d74d?api-key=579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b&format=json 
+```
+
 ![Sample Output](https://github.com/Praveen5102/data_chart_app/blob/main/assests/sample%20app%20pic.jpeg)
 
 ## Features

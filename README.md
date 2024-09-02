@@ -1,19 +1,22 @@
-# data_chart_app
+# Data Chart App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The **Data Chart App** is a Flutter application designed to display and interact with various data charts. This project demonstrates how to visualize data using different types of charts and provides a user-friendly interface for exploring data.
 
-This project is a starting point for a Flutter application.
+![Sample Output](https://github.com/Praveen5102/data_chart_app/blob/main/assests/sample%20app%20pic.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Interactive data charts
+- Customizable chart types and styles
+- Real-time data updates
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+## Installation
 
-samples, guidance on mobile development, and a full API reference.
-A Flutter app showcasing a chart from data.gov.in, utilizing go_router for navigation and Riverpod for state management. Interactive and data-driven
+To set up the project locally, follow these steps:
 
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/Praveen5102/data_chart_app.git

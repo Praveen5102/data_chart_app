@@ -20,3 +20,17 @@ To set up the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/Praveen5102/data_chart_app.git
+
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd data_chart_app
+   
+3.**Install Dependencies:**
+   ```bash
+   flutter pub get
+
+
+
+
+
+   
